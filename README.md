@@ -1,5 +1,7 @@
-Cristina Villacastin Roda 
-email:cvillacrod@educacion.navarra.es
+ UT3Villacastin
+---------------
+* Cristina Villacastin Roda 
+* email:cvillacrod@educacion.navarra.es
 
 Respecto a la tarea 3 de Programación Multimedia y Dispositivos Móviles, ha sido facil seguir le video para realizar el dashboard.
 Si que tengo problemas a la hora de poder trabajar con android studio debido a mi conexion de internet, pero al final he podido seguirlo correctamente.
